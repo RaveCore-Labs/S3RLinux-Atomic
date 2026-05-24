@@ -8,6 +8,20 @@
 
 ## 💀💀💀 WE ARE ON ARTIFACTHUB NOW! YAAAAAY 💀💀💀
 
+## 🪦 THIS REPO IS ARCHIVED
+
+> **Last updated: 2026** — This project is no longer maintained.
+
+**S3RLinux has moved to [Solara](https://github.com/celestia-foundation/Solara)** — a Arch based elegant distro that has an Rust Installer 💀
+
+### Why?
+After years of Fedora love, I moved to an Arch based distro again for better desktop Linux experience — The future is not immutable, baby. XD
+
+Thanks for the rides, Fedora. You were good to us.
+*RAVE ALL NIGHT. Forever. 🌈💀*
+
+
+
 ## 🔥 WANT TO SEE HOW DUMB THE AI AGENT IS?
 
 **[Watch the full convo here! 💀](https://raw.githubusercontent.com/ravecorelabs/S3RLinux-Atomic/main/session_full_convo.md)**
